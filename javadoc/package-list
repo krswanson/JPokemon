@@ -1,0 +1,17 @@
+org.jpokemon
+org.jpokemon.action
+org.jpokemon.battle
+org.jpokemon.battle.slot
+org.jpokemon.battle.turn
+org.jpokemon.exception
+org.jpokemon.item
+org.jpokemon.map
+org.jpokemon.map.npc
+org.jpokemon.pokedex
+org.jpokemon.pokemon
+org.jpokemon.pokemon.move
+org.jpokemon.pokemon.move.effect
+org.jpokemon.pokemon.stat
+org.jpokemon.pokemon.storage
+org.jpokemon.service
+org.jpokemon.trainer
